@@ -1,4 +1,5 @@
-# WebApi-comercio-final
+# WebApi-comercio-
+Aquí adjunto algunas capturas de pantalla que no he incluido en el documento funcional.
 
 ![client](https://user-images.githubusercontent.com/117835592/216403473-572b1ad6-4ac0-4e87-9aa6-85657399c1c0.png)
 
